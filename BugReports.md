@@ -1,34 +1,19 @@
 # Bug Reports
 
-## BUG001 - Button not responsive
+## BUG001 – Submit button unresponsive
 
 **Description:**  
-Submit button does not respond on first click
+The submit button does not respond immediately after clicking.
 
-**Steps:**
-1. Enter valid data  
-2. Click submit  
+**Steps to Reproduce:**
+1. Go to form page  
+2. Enter valid data  
+3. Click submit  
 
-**Expected:**  
-Form submits successfully  
+**Expected Result:**  
+Form should submit and show confirmation.
 
-**Actual:**  
-No response until second click  
+**Actual Result:**  
+Nothing happens on first click.
 
 **Severity:** Medium  
-**Priority:** High  
-
----
-
-## BUG002 - Poor error message
-
-**Description:**  
-Error message is unclear when invalid input is entered  
-
-**Expected:**  
-Clear guidance for user  
-
-**Actual:**  
-Generic message shown  
-
-**Severity:** Low  
