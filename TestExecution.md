@@ -1,8 +1,8 @@
 # Test Execution Report
 
-| Test ID | Status | Comments |
-|--------|--------|----------|
-| TC001 | Pass | Loads fine |
-| TC002 | Fail | Button issue |
-| TC003 | Pass | Error displayed |
-| TC004 | Pass | Navigation works |
+| Test ID | Status | Notes |
+|--------|--------|-------|
+| TC001 | Pass | Homepage loaded successfully |
+| TC002 | Pass | Navigation works |
+| TC003 | Pass | Valid data accepted |
+| TC004 | Fail | Error not displayed as expected |
