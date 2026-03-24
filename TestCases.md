@@ -1,8 +1,8 @@
 # Test Cases
 
-| ID | Scenario | Steps | Expected Result |
-|----|--------|------|----------------|
-| TC001 | Homepage loads | Open website | Page loads successfully |
-| TC002 | Form submission | Enter valid data | Submission successful |
-| TC003 | Invalid input | Enter incorrect data | Error message shown |
-| TC004 | Navigation | Click menu links | Correct pages open |
+| ID | Feature | Steps | Expected Result |
+|----|---------|-------|-----------------|
+| TC001 | Homepage loads | Open browser and go to cosmetric.ai | Homepage loads successfully |
+| TC002 | Navigation | Click menu links | User lands on correct page |
+| TC003 | Form input | Enter valid data | Form accepts input |
+| TC004 | Invalid input | Enter bad data | Error message shown |
